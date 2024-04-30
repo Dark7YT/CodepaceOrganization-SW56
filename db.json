@@ -37,7 +37,7 @@
       "image": "https://github.com/CodepaceOrganization/Informes/assets/130580982/468c15d3-c548-4d8f-b256-385338542546"
     }
   ],
-    "technical-tests-study-plan": [
+  "technical-tests-study-plan": [
     {
       "id": 1,
       "title": "Top Interview 150",
@@ -76,35 +76,35 @@
     }
   ],
   "details-3": [
-        {
-          "id": 1,
-          "description": "Create a function in C++ that finds the most repeated number within an array of integers.",
-          "difficulty": "Medium",
-          "progress": "Earrings",
-          "status": 0
-        },
-        {
+    {
+      "id": 1,
+      "description": "Create a function in C++ that finds the most repeated number within an array of integers.",
+      "difficulty": "Medium",
+      "progress": "Earrings",
+      "status": 0
+    },
+    {
           "id": 2,
           "description": "Implements an algorithm in C++ to sort an array of numbers in ascending order without using STL functions.",
           "difficulty": "Easy",
           "progress": "Earrings",
           "status": 0
-        },
-        {
+    },
+    {
           "id": 3,
           "description": "Develop a function in C++ that calculates the average of a set of numbers entered by the user.",
           "difficulty": "Medium",
           "progress": "Earrings",
           "status": 0
-        },
-        {
+    },
+    {
           "id": 4,
           "description": "Develop a function in C++ that calculates the factorial of a positive integer recursively.",
           "difficulty": "Medium",
           "progress": "Earrings",
           "status": 0
-        },
-        {
+    },
+    {
           "id": 5,
           "description": "Develop a function in C++ that calculates the factorial of a positive integer recursively.",
           "difficulty": "Easy",
