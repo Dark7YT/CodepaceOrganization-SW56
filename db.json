@@ -78,7 +78,6 @@
     "details-3": [
     {
         "id": 1,
-        "number": 1,
         "description": "Create a function in C++ that finds the most repeated number within an array of integers.",
         "difficulty": "Medium",
         "progress": "Earrings",
@@ -86,7 +85,6 @@
     },
     {
             "id": 2,
-            "number": 2,
             "description": "Implements an algorithm in C++ to sort an array of numbers in ascending order without using STL functions.",
             "difficulty": "Easy",
             "progress": "Earrings",
@@ -94,7 +92,6 @@
     },
     {
             "id": 3,
-        "number": 3,
             "description": "Develop a function in C++ that calculates the average of a set of numbers entered by the user.",
             "difficulty": "Medium",
             "progress": "Earrings",
@@ -102,7 +99,6 @@
     },
     {
             "id": 4,
-        "number": 4,
             "description": "Develop a function in C++ that calculates the factorial of a positive integer recursively.",
             "difficulty": "Medium",
             "progress": "Earrings",
@@ -110,7 +106,6 @@
     },
     {
             "id": 5,
-        "number": 5,
             "description": "Develop a function in C++ that calculates the factorial of a positive integer recursively.",
             "difficulty": "Easy",
             "progress": "Earrings",
@@ -118,7 +113,6 @@
     },
     {
             "id": 6,
-        "number": 6,
             "description": "Create a function in C that calculates the power of a given number using recursion.",
             "difficulty": "Medium",
             "progress": "Earrings",
@@ -126,7 +120,6 @@
     },
     {
             "id":7,
-        "number": 1,
             "description": "Implement a function in C++ that adds two arrays of the same size and displays the result.",
             "difficulty": "Medium",
             "progress": "InProgress",
@@ -134,7 +127,6 @@
     },
     {
             "id":8,
-        "number": 2,
             "description": "Develop a C++ program that compresses a string of characters using the RLE method.",
             "difficulty": "Medium",
             "progress": "InProgress",
@@ -142,7 +134,6 @@
     },
     {
             "id":9,
-        "number": 3,
             "description": "Create a C++ program that generates and prints the first n rows of Pascal's Triangle.",
             "difficulty": "Hard",
             "progress": "InProgress",
@@ -150,7 +141,6 @@
     },
     {
             "id":10,
-        "number": 4,
             "description": "Create a function in C++ that calculates the area of a triangle using the length of its sides and Heron's formula.",
             "difficulty": "Easy",
             "progress": "InProgress",
@@ -158,7 +148,6 @@
     },
     {
             "id":11,
-        "number": 5,
             "description": "Create a function in C that calculates the power of a given number using recursion.",
             "difficulty": "Medium",
             "progress": "InProgress",
@@ -166,7 +155,6 @@
     },
     {
             "id":12,
-        "number": 6,
             "description": "Code a function in C++ that performs multiplication of two square matrices of a specific size.",
             "difficulty": "Easy",
             "progress": "InProgress",
@@ -174,7 +162,6 @@
     },
     {
             "id":13,
-        "number": 7,
             "description": "Develop an algorithm in C++ to sort an array of numbers in descending order without using predefined functions.",
             "difficulty": "Medium",
             "progress": "InProgress",
@@ -182,7 +169,6 @@
     },
     {
             "id":14,
-        "number": 8,
             "description": "Write a program that finds the largest number in an array of integers.",
             "difficulty": "Hard",
             "progress": "InProgress",
@@ -190,7 +176,6 @@
     },
     {
             "id":15,
-        "number": 9,
             "description": "Write a function that determines whether a given number is a palindrome.",
             "difficulty": "Easy",
             "progress": "InProgress",
@@ -198,7 +183,6 @@
     },
     {
             "id": 16,
-        "number": 1,
             "description": "Implement a function in C++ that adds two arrays of the same size and displays the result.",
             "difficulty": "Easy",
             "progress": "Done",
@@ -206,7 +190,6 @@
     },
     {
             "id": 17,
-        "number": 2,
             "description": "Develop a C++ program that compresses a string of characters using the RLE method.",
             "difficulty": "Easy",
             "progress": "Done",
@@ -214,7 +197,6 @@
     },
     {
             "id": 18,
-        "number": 3,
             "description": "Create a C++ program that generates and prints the first n rows of Pascal's Triangle.",
             "difficulty": "Medium",
             "progress": "Done",
@@ -222,7 +204,6 @@
     },
     {
             "id": 19,
-        "number": 4,
             "description": "Create a function in C++ that calculates the area of a triangle using the length of its sides and Heron's formula.",
             "difficulty": "Medium",
             "progress": "Done",
@@ -230,7 +211,6 @@
     },
     {
             "id": 20,
-        "number": 5,
             "description": "Create a function in C that calculates the power of a given number using recursion.",
             "difficulty": "Hard",
             "progress": "Done",
@@ -238,7 +218,6 @@
     },
     {
             "id": 21,
-        "number": 6,
             "description": "Code a function in C++ that performs multiplication of two square matrices of a specific size.",
             "difficulty": "Hard",
             "progress": "Done",
@@ -246,7 +225,6 @@
     },
     {
             "id": 22,
-        "number": 7,
             "description": "Develop an algorithm in C++ to sort an array of numbers in descending order without using predefined functions.",
             "difficulty": "Easy",
             "progress": "Done",
@@ -254,7 +232,6 @@
     },
     {
             "id": 23,
-        "number": 8,
             "description": "Write a program that finds the largest number in an array of integers.",
             "difficulty": "Medium",
             "progress": "Done",
@@ -262,7 +239,6 @@
     },
     {
         "id": 24,
-        "number": 9,
             "description": "Write a function that determines whether a given number is a palindrome.",
             "difficulty": "Hard",
             "progress": "InProgress",
